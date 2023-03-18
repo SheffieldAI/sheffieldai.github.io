@@ -1,4 +1,4 @@
-var secondsLeft = 3;
+var secondsLeft = 2;
 function updateTimer() {
     secondsLeft--;
     document.querySelector('.timer').textContent = secondsLeft;
